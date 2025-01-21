@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```
 3. Run the script:
 ```bash
-python3 generate.py [structure.txt] [words.txt] 
+python3 generate.py [structure.txt] [words.txt] --optional [ouptut.png] # To generate an image
 ```
 
 ## Key Concepts
